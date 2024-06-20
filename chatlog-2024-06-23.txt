@@ -1,0 +1,454 @@
+Your: ec5d8945-aeee-4c5d-9227-d9a81049e2e8
+ 
+
+
+User : Which user roles can have access to QEval chat feature? 
+RAG Response : All the user roles from an agent and above can have access to the QEval chat feature, provided they have been given access rights by the admin.
+ 
+
+
+User :  
+Your: da9d61aa-79b9-4e9f-be16-cd12132ae380
+ 
+
+
+User : What do the terms Client, Partner, Location and Program in QEval relate to? 
+RAG Response : The terms Client, Partner, Location, and Program have their specific meaning when referred to QEval. The description of each of these terms are as mentioned below-
+
+Client- It is known to be the client or customer to a company.
+Partner- A partner works for a particular client.
+Location- It denotes the relative location of the particular client.
+Program- It is associated with the department of a company.
+ 
+
+
+Your: 20756a08-20b4-41d2-8fdb-0fcd7f4bd668
+ 
+
+
+User : What do the terms Client, Partner, Location and Program in QEval relate to? 
+RAG Response : The terms Client, Partner, Location, and Program have their specific meaning when referred to QEval. The description of each of these terms are as mentioned below-
+
+Client- It is known to be the client or customer to a company.
+Partner- A partner works for a particular client.
+Location- It denotes the relative location of the particular client.
+Program- It is associated with the department of a company.
+ 
+
+
+Your: a0eea780-91c2-4f6e-b097-f3614753eeaa
+ 
+
+
+User : LOG_FILE_NAME 
+RAG Response : I'm sorry, but I don't understand what you're asking. Could you please provide more context or clarify your question?
+ 
+
+
+Your: 764f7a7b-936a-407f-bc34-cbd647bde2c0
+ 
+
+
+User : LOG_FILE_NAME 
+RAG Response : I'm sorry, but I don't understand what you're asking. Could you please provide more context or clarify your question?
+ 
+
+
+User :  
+Your: f4d70565-2fd9-446e-9b56-6e3f4a4278d1
+ 
+
+
+User : LOG_FILE_NAME 
+RAG Response : I'm sorry, but I don't understand what you're asking. Could you please provide more context or clarify your question?
+ 
+
+
+Your: 344bf112-0f8b-4397-9f11-6f9c7546a758
+ 
+
+
+User : How to Dispute? 
+RAG Response : Dispute functionality includes individual dispute activities for the agent and supervisor. Thus, it can be categorized into two sections: 
+
+ Dispute from agent 
+ Dispute from agent’s supervisor 
+
+To know the process of how agents and supervisors can review and raise a dispute on any evaluation form, refer to View Evaluation on My Evaluation. To check the status of the submitted dispute, from the evaluation form page, check the Review/Dispute Information category.
+ 
+
+
+User : How to Dispute? 
+RAG Response : Dispute is a process made by an agent against an evaluator when he is not satisfied with the evaluations done for him regarding a call. Disputes can also be made by a supervisor on behalf of an agent for the particular evaluator.
+
+To know the process of how agents and supervisors can review and raise a dispute on any evaluation form, refer to View Evaluation on My Evaluation. To check the status of the submitted dispute, from the evaluation form page, check the Review/Dispute Information category.
+ 
+
+
+Your: 5661bbfe-4e7e-4d5e-bce2-7df50cb8348b
+ 
+
+
+User : import logging 
+RAG Response : I'm sorry, but I'm not sure what you're trying to ask. Could you please provide more context or clarify your question?
+ 
+
+
+User : import os 
+RAG Response : I'm sorry, but I'm not sure what you're trying to ask. Could you please provide more context or clarify your question?
+ 
+
+
+User : from datetime import datetime 
+RAG Response : I'm sorry, but I'm not sure what you're trying to ask. Could you please provide more context or clarify your question?
+ 
+
+
+User :  
+Your: 9e685818-5d51-4ce2-ab1e-9b28523a85fc
+ 
+
+
+Your: 02c624f7-701d-4b40-b3d1-62bb19f7233a
+ 
+
+
+Your: 2344015f-47bc-4a2f-9820-21bbf09dcf0a
+ 
+
+
+Your: 29b3af94-81a2-4c92-ad4c-286a1c2fb8f7
+ 
+
+
+User : How to filter score base who has achieved 100% of the score 
+RAG Response : To filter scores based on those who have achieved 100% of the score in QEval, you can follow these steps:
+
+1. Navigate to Quality > Evaluation/ATA, which will take you to the Manage Evaluation screen.
+2. On this page, click on the Search Evaluation button.
+3. On the following screen, you can set different filters to search for specific evaluations.
+4. To filter based on scores who have achieved 100% of the score, define the score range by entering the Score From and Score To numbers.
+
+This will display the evaluations that meet the criteria of achieving 100% of the score.
+ 
+
+
+Your: f119de76-c898-46ba-ad90-383f3d28dc9e
+ 
+
+
+User : What are the types of evaluation? 
+RAG Response : Based on the types of processes, evaluation is classified into the following categories:
+
+1. Good Call evaluation
+2. Bad Call evaluation
+3. Critical call evaluation
+ 
+
+
+Your: 0f96262d-f36c-4ea7-8fb2-bebeedca4c61
+ 
+
+
+User : What is Evaluation Count? 
+RAG Response : An evaluation count is the data shown under Manager Evaluation for a particular month. It shows the figures under various categories of the evaluations done by a supervisor for the selected month.
+ 
+
+
+Your: e5d56dbb-96b4-4177-a73d-7b0c768eb330
+ 
+
+
+Your: ff280fec-1a81-4637-8194-5bcb37b4f506
+ 
+
+
+Your: 87d62d8b-bae6-442b-82ec-e857f471fe95
+ 
+
+
+User : What is Evaluation Count? 
+RAG Response : An evaluation count is the data shown under Manager Evaluation for a particular month. It shows the figures under various categories of the evaluations done by a supervisor for the selected month.
+ 
+
+
+Your: cb1d3bfe-0d06-4794-bd83-02df78776b5a
+ 
+
+
+Your: f2fdee88-e1d2-439c-982b-c557be112e0c
+ 
+
+
+Your: c946a7f1-35f7-4eb9-9a83-0a4a21d33542
+ 
+
+
+Your: cdc6cc4e-ebf3-42aa-86c8-aa66cef99668
+ 
+
+
+Your: 44c8dbe5-7580-4f9e-8b37-7911bcad53af
+ 
+
+
+Your: 0f97232d-ab52-4991-b679-95ece1282533
+ 
+
+
+User : ys 
+RAG Response : I'm sorry, I don't understand what you're trying to ask. Could you please rephrase your question or provide more context?
+ 
+
+
+Your: f50475b2-ed1f-4028-a19e-7bb177a11663
+ 
+
+
+User : ygy 
+RAG Response : I'm sorry, but I don't understand what you're trying to ask. Could you please rephrase your question or provide more context?
+ 
+
+
+User : njun 
+Your: d32f09e6-d253-4bbf-ba90-d43087fb9425
+ 
+
+
+Your: faf9b044-2c33-4822-a9ea-fc899dd0ef91
+ 
+
+
+User : multiple 
+RAG Response : No. A QEvalPro chat feature allows a user to select multiple users from the list but permits to send messages to one user at a time.
+ 
+
+
+User : multiple 
+RAG Response : No. A QEvalPro chat feature allows a user to select multiple users from the list but permits to send messages to one user at a time.
+ 
+
+
+Your: bfdfb0db-2298-4b74-94c5-ce396c3ab369
+ 
+
+
+User : whar? 
+RAG Response : I'm sorry, I didn't understand your question. Could you please rephrase it or provide more context?
+ 
+
+
+User :  
+
+
+User Question : How can I register myself on ICE? 
+AI Response : To register yourself on ICE, follow the steps given below:
+
+1. Go to the [http://www.enterice.com/](http://www.enterice.com/) website.
+2. Click on the Login link at the top of the website.
+3. Select "Start with a blank category" on the pop-up screen, which will list out the following options shown on the below screen:
+
+
+4. Weight can only be allocated to a category only if the user selects the "Scorable" checkbox and configures the weight details.
+5. This condition will be applicable to all the created categories.
+
+
+
+
+User Question : What do the terms Client, Partner, Location and Program in QEval relate to? 
+AI Response : The terms Client, Partner, Location, and Program have specific meanings in QEval:
+
+* Client: It refers to the client or customer of a company.
+* Partner: A partner works for a particular client.
+* Location: It denotes the relative location of the particular client.
+* Program: It is associated with the department of a company.
+
+
+
+
+User Question : What categorizes the score of particular form? 
+AI Response : The score of a form is calculated on the basis of weights earned from each of the category listed in that particular form. Also, if a category falls under Autofailure then it will reflect the total score.
+
+
+
+
+User Question : What if a user needs to allocate weight to a question of the particular category? 
+
+
+User Question : Which user roles can have access to QEval chat feature? 
+AI Response : All the user roles from an agent and above can have access to the QEval chat feature, provided they have been given access rights by the admin.
+
+
+User Question : What are the types of forms in QEval? 
+AI Response : There are two categories of forms in QEval:
+
+1. Chat-based: A user can create a form based on the chat process under this section.
+2. Voice-based: It offers the user to create a form based upon the voice process. Additionally, a user can also upload the voice calls for evaluation.
+
+
+User Question : How to filter score base who has achieved 100% of the score 
+AI Response : To filter scores based on users who have achieved 100% of the score in QEval, you need to follow these steps:
+
+1. Navigate to Quality > Evaluation/ATA.
+2. Click on the Manage Evaluation button.
+3. On the Search Evaluation screen, define the score range by entering the Score From and Score To numbers.
+4. This will filter out users who have achieved 100% of the score.
+
+
+User Question : What is the maximum file size to be shared through QEval chat feature attachment? 
+AI Response : A file size of maximum 5 MB can be sent through chat feature attachment.
+
+
+User Question : What is My Universe? 
+AI Response : My Universe is a category in QEval that allows users to view their evaluation results. It also helps them manage good/bad calls. An agent can specifically raise a dispute for a particular evaluation if they have any concerns about it. My Universe offers accessibility to the following functionalities:
+
+* My Evaluation
+* Manager Evaluation
+* My Disputes
+* Manage Good/Bad Call
+
+
+User Question : How can I check my overall performance? 
+AI Response : To check your overall performance in QEval, you can refer to the Overall Performance Report under the Reports section. This report provides an overview of your performance based on your role as an Agent, Supervisor, or QA.
+
+
+User Question : What is Parameter Wise Training? 
+AI Response : Parameter Wise Training is a training module specifically designed to assign training processes to individual questions in a form. It allows for targeted training based on specific parameters or criteria within the form.
+
+
+User Question : What is Bonus Point? How is it applied to a particular question in evaluation? 
+AI Response : Bonus Point is a feature in QEval that allows evaluators to allot marks more or less than the possible points for a particular question. This feature can be used when an agent is found to have performed exceptionally well or poorly for a particular question. The evaluator can use their discretion to apply a bonus point, which can be positive or negative, to a particular question during the evaluation process. The factors to be considered while applying the Bonus Point feature can be viewed here.
+
+
+User Question : Can a coachee view an evaluation made against him for tactical coaching? 
+AI Response : Yes, a coachee can view an evaluation made against him for tactical coaching. They can click on the "view" option on their console, which will redirect them to the evaluation screen where they can view the evaluation made for them.
+
+
+User Question : Whom to contact in case if my account is locked? 
+AI Response : In case if QEval account gets locked then user needs to contact the authorized QEval Admin.
+
+
+User Question : What is Bonus Point? How is it applied to a particular question in evaluation? 
+AI Response : Bonus Point is a feature in QEval that allows evaluators to allot marks more or less than the possible points for a particular question. This feature can be used when an agent is found to have performed exceptionally well or poorly for a particular question. The evaluator can use their discretion to apply a bonus point, which can be positive or negative, to a particular question during the evaluation process. The factors to be considered while applying the Bonus Point feature can be viewed here.
+
+
+User Question : How can an agent know about his training? 
+AI Response : An agent can be notified about a training through email notification, but only if it has been specifically configured for them. Otherwise, they can check the training details in the My Universe > My Evaluation section of QEval.
+
+
+User Question : While uploading a file through attachment the system gives a prompt error message 
+AI Response : Whenever a user tries to upload a file of a specific format which is not supported by chat feature, the system will give a prompt message. Further, a QEvalPro chat feature will only upload files with below mentioned formats-
+
+.tif, .gif, .pdf, .jpg, .jpeg, .txt, .bmp, .xls, .xlsx, .docx, .doc, .zip, .rar and .csv
+
+
+
+
+User Question : What is Parameter Wise Training? 
+AI Response : This is another type of training module specifically designed to assign training processes to the individual question of the form. To know the complete functionality of this training type, refer to Parameter Wise Training under Manage Training.
+
+
+
+
+User Question : What information does a coach tactical warehouse display to a coachee? 
+AI Response : A coach tactical warehouse includes two types of parameters. The first is the strength, which displays the parameter where a coachee has performed well. The second is the opportunity that includes the parameter in which the coachee underperformed during an evaluation and has the scope of improvement.
+
+
+session_id: ed9cdb7c-6e32-44f1-9768-8bcf534f04b9
+
+
+User Question : What is Program Access Group? 
+AI Response : A Program Access Group in QEval is a feature that allows a user to create a group of users and grant access to a particular program to every user within that group. This feature is considered more efficient than providing individual access rights to each user. The user who is authorized to create a group can be a QA Manager or above.
+
+
+session_id: bf575622-2b8d-4673-8078-387823ab1db7
+
+
+User Question : How can I access an audit performed for me? 
+AI Response : An agent can view his/her audit report through My Universe>My Evaluation. Enter the required dates in the respective fields and select the required options. Click Submit. A list of evaluations will be displayed on the same screen.
+
+
+session_id: caff8bca-46e7-48d5-9484-9f759a23886c
+
+
+User Question : What is Manager Evaluation? 
+AI Response : Manager Evaluation is a feature that allows supervisors to view their evaluation statistics for agents for a particular month. The statistics are displayed in a slot of 10 days, but can only be viewed if the supervisor has Manager Evaluation access rights.
+
+
+session_id: 4d54e5c8-2728-4adc-9805-77782653afc9
+
+
+session_id: 05672938-bd2a-4c0f-9ccd-8324acd406a3
+
+
+session_id: 6fc7b025-c0b0-4646-a7b3-0b914b27b551
+
+
+session_id: 1e1b279b-f2a1-4db0-b968-a2f9bf3a2b81
+
+
+User Question : What information does a coach tactical warehouse display to a coachee? 
+AI Response : A coach tactical warehouse includes two types of parameters. The first is the strength, which displays the parameter where a coachee has performed well. The second is the opportunity that includes the parameter in which the coachee underperformed during an evaluation and has the scope of improvement.
+
+
+User Question : Can a coachee view an evaluation made against him for tactical coaching? 
+AI Response : Yes. A coachee can view an evaluation made against him for a tactical coaching. A coachee can click on "view" option on his console. This will redirect the coachee to evaluation screen wherein he can view the evaluation made for him.
+
+
+session_id: 4dccaeb7-57e0-413f-9462-e2b06758bc37
+
+
+User Question : What is a critical call? 
+AI Response : Some sections of an evaluation form, particularly a question or a category could be more important when compared to other questions, while performing an evaluation. Such questions or categories are placed under specific call known as critical call.
+
+
+User Question : What is good call? 
+AI Response : During an evaluation process, when the call quality performed by an agent is found to be high then this process is known to be a good call. QEval also terms it as a Wow Call. Click Good Call to know the conditions of the good call.
+
+
+session_id: 32e08a10-c5a9-4090-b1d5-ff29419d573b
+
+
+User Question : What is a critical call? 
+AI Response : Some sections of an evaluation form, particularly a question or a category could be more important when compared to other questions, while performing an evaluation. Such questions or categories are placed under specific call known as critical call.
+
+
+User Question : What is good call? 
+AI Response : During an evaluation process, when the call quality performed by an agent is found to be high then this process is known to be a good call. QEval also terms it as a Wow Call. Click Good Call to know the conditions of the good call.
+
+
+session_id: b8549518-c3f1-44b5-a624-7ac82995415c
+
+
+User Question : What is good call? 
+AI Response : During an evaluation process, when the call quality performed by an agent is found to be high then this process is known to be a good call. QEval also terms it as a Wow Call. Click Good Call to know the conditions of the good call.
+
+
+User Question : What is a critical call? 
+AI Response : Some sections of an evaluation form, particularly a question or a category could be more important when compared to other questions, while performing an evaluation. Such questions or categories are placed under specific call known as critical call.
+
+
+User Question : Tell me what is critical call and good call in pointwise manner? 
+AI Response : Sure, here are the key points about good call and critical call:
+
+Good Call:
+
+* It is a term used during an evaluation process.
+* It is given when the call quality performed by an agent is found to be high.
+* QEval also terms it as a Wow Call.
+
+Critical Call:
+
+* It refers to some sections of an evaluation form that are more important than others.
+* These sections usually contain questions or categories that are more crucial for the evaluation.
+* These are specifically identified for their importance in the evaluation process.
+
+
+User Question : give me one important difference between them? 
+AI Response : The key difference between a good call and a critical call is:
+
+Good Call: It is a subjective judgment based on the quality of the call, typically determined by a high level of performance by the agent.
+
+Critical Call: It refers to specific sections of an evaluation form that are deemed more important due to their direct impact on the evaluation outcome. These sections are not necessarily related to the quality of the call, but rather specific areas of focus within the evaluation.
+
+
