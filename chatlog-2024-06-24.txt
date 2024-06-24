@@ -1,0 +1,25 @@
+session_id: e19f9259-9a48-41ae-8cd6-db3c49f93f78
+
+
+User Question : what is good and bad call? 
+AI Response : A good call is a call that meets the required conditions for quality during an evaluation process, while a bad call is a call that does not meet these conditions and is considered to have poor quality. The conditions for a good or bad call can vary depending on the specific evaluation criteria being used.
+
+
+User Question : please answer in point wise manner 
+AI Response : Sure, here is a point-wise explanation of good and bad calls:
+
+* Good call:
+
+
+  + Meets the required conditions for quality during an evaluation process.
+  + Also known as a "Wow Call" in some evaluation processes.
+  + Call quality is high.
+	
+* Bad call:
+
+
+  + Does not meet the required conditions for quality during an evaluation process.
+  + Also known as a "Bad Call" in some evaluation processes.
+  + Call quality is poor.
+
+

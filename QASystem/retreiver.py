@@ -164,7 +164,7 @@ class ResponseApp:
             # Storing last 12 Chats into memory of each user of PGVECTOR Database
             if len(chat_history.messages) <= chat_hist_msg_count:
                 msgs = chat_history.messages
-                print(len(chat_history.messages))
+                print(f'Total number of previous chat history : len(chat_history.messages)')
             else:
                 msgs = chat_history.messages[-chat_hist_msg_count:]
 
