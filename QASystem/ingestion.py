@@ -23,7 +23,6 @@ import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 warnings.filterwarnings("ignore", category=FutureWarning)
 
-key=os.getenv("HUGGINGFACEHUB_API_TOKEN")
 
 embeddings = AI21Embeddings(api_key=os.getenv("AI21_API_KEY"))
 

@@ -1,56 +1,39 @@
-import os
-
-from QASystem.logger import logging
 from QASystem.ingestion import DataIngestionProcessing
 from QASystem.retreiver import ResponseApp
 from QASystem.constants import DATA_FILE_PATH
 import uuid
-from datetime import datetime
+from datetime import datetime, date
 
-from colorama import Fore, Style
+from colorama import Fore, Style, init
 import pyfiglet
 
 import warnings
 warnings.filterwarnings("ignore", category=DeprecationWarning)
-# Initialize colorama
-from colorama import init
-
-from datetime import date
 
 today = str(date.today())
+
 
 def append2log(text):
     global today
     fname = 'chatlog-' + today + '.txt'
     with open(fname, "a", encoding='utf-8') as f:
         f.write(text + "\n")
-        f.close
+        f.close()
 
 
 session_id = str(uuid.uuid4())
 
-#IngestionProcessing = DataIngestionProcessing(file_path=DATA_FILE_PATH)
-#docs = IngestionProcessing.split_data()
-#IngestionProcessing.push_data_db(docs)
-"""
-def final_retriever(session_id=None):
-    try:
-        DataIngestionProcessingfile_path=DATA_FILE_PATH)
-        docs = IngestionProcessing.split_data()
-        IngestionProcessing.push_data_db(docs)
-    except Exception as e:
-        pass
-"""
 
-class user_response:
+class UserResponse:
     def __init__(self):
         self.session_id = str(uuid.uuid4())
         init()
 
-    def Ingestion_data(self, file_path):
-        IngestionProcessing =DataIngestionProcessing(file_path=file_path)
-        docs = IngestionProcessing.split_data()
-        IngestionProcessing.push_data_db(docs)
+    @staticmethod
+    def ingestion_data(file_path):
+        ingestionprocessing = DataIngestionProcessing(file_path=file_path)
+        docs = ingestionprocessing.split_data()
+        ingestionprocessing.push_data_db(docs)
 
     def response_generator(self):
         title = pyfiglet.figlet_format("Fancy Input")
@@ -65,19 +48,17 @@ class user_response:
             append2log(f"AI Response : {response}")
             print(Fore.MAGENTA + f"AI Response: {response}" + Style.RESET_ALL)
             print('-------------------------------------------------')
-            #print(response)
 
-    def append2log(self, text):
+    @staticmethod
+    def append2log(text):
         global today
         fname = 'chatlog-' + datetime.now().strftime('%m_%d_%Y_%H_%M_%S') + '.txt'
         with open(fname, "a", encoding='utf-8') as f:
             f.write(text + "\n")
-        f.close
-
-
+            f.close()
 
 
 if __name__ == "__main__":
-    user_response = user_response()
-    user_response.Ingestion_data(file_path=DATA_FILE_PATH)
+    user_response = UserResponse()
+    user_response.ingestion_data(file_path=DATA_FILE_PATH)
     user_response.response_generator()

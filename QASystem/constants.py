@@ -1,7 +1,4 @@
-import warnings
-warnings.filterwarnings("ignore")
-
-PGSQL_DB_USER_NAME = 'postgres'
+PGSQL_DB_USER_NAME='postgres'
 PGSQL_DATABASE_NAME='postgres'
 PGSQL_PORT=5432
 PGSQL_COLLECTION_NAME='etech_collection'
