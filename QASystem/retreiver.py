@@ -72,7 +72,7 @@ custom_prompt = """
         {context}
         """
 
-contextualize_system_prompt = """ Given the chat history and latest user question, which might reference context in the chat history 
+contextualize_system_prompt = """Given the chat history and latest user question, which might reference context in the chat history 
                             formulate the standalone question which can be understood without the chat history. 
                             Do Not answer the question, just reformulate it if needed and otherwise return it as is. """
 
@@ -164,7 +164,7 @@ class ResponseApp:
             # Storing last 12 Chats into memory of each user of PGVECTOR Database
             if len(chat_history.messages) <= chat_hist_msg_count:
                 msgs = chat_history.messages
-                print(f'Total number of previous chat history : len(chat_history.messages)')
+                print(f'Total number of previous chat history : {len(chat_history.messages)}')
             else:
                 msgs = chat_history.messages[-chat_hist_msg_count:]
 

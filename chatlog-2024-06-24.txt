@@ -23,3 +23,72 @@ AI Response : Sure, here is a point-wise explanation of good and bad calls:
   + Call quality is poor.
 
 
+session_id: 30ac996b-647e-4aca-8e8e-70528c6a02f4
+
+
+session_id: 553e7dca-ed0f-46a9-a59a-975a9762ac8b
+
+
+User Question : What are the types of forms in QEval? 
+AI Response : There are two categories of forms in QEval:
+
+ Chat based- A user can create a form based on the chat process under this section 
+ Voice-based- It offers the user to create a form based upon the voice process. Additionally, a user can also upload the voice calls for evaluation
+
+
+session_id: f60288d6-2f57-4274-86cc-09665ce95c8e
+
+
+User Question : Which user roles can have access to QEval chat feature? 
+AI Response : All the user roles from an agent and above can have access to the QEval chat feature, provided they have been given access rights by the admin.
+
+
+session_id: c1d54a25-e815-46b0-a61e-e5984f19c7e4
+
+
+User Question : Which user roles can have access to QEval chat feature? 
+AI Response : All the user roles from an agent and above can have access to the QEval chat feature, provided they have been given access rights by the admin.
+
+
+User Question : just give that answer in 100 words 
+AI Response : The QEval chat feature is accessible to user roles at the agent level and above, but only if they have been granted access rights by the admin. This ensures that only authorized personnel can utilize the chat feature, maintaining security and order within the system. It's important to note that access to this feature is not universal across all user roles, and permissions must be explicitly granted by the system administrator.
+
+
+User Question : give me in 100 words only? 
+AI Response : The QEval chat feature is available to user roles at the agent level and above, contingent on administrative access rights. This selective access ensures system security and order. It's crucial to understand that not all user roles have automatic access; it must be granted explicitly by the admin. This approach helps in maintaining the integrity and confidentiality of the system, while also ensuring that only those who need the feature have access to it.
+
+
+User Question : What is good call? 
+AI Response : A "good call" is a term used during an evaluation process to denote a call that meets high-quality standards as performed by an agent. It's also referred to as a "Wow Call" by QEval. This call is characterized by certain conditions that signify its quality, although the specific criteria for a good call may vary depending on the evaluation criteria set by the organization. Essentially, a good call is one that satisfies or exceeds the expected standards of communication and service during a call.
+
+
+User Question : What is a critical call? 
+AI Response : A "critical call" refers to a call that is of high importance or urgency, often requiring immediate attention or action. In various contexts, such as customer service, healthcare, emergency services, or business operations, a critical call is one that involves significant issues, emergencies, or high-level decisions that need to be addressed promptly. The nature of what makes a call critical can vary widely depending on the industry and the specific situation, but it generally involves situations where the outcome of the call could have serious consequences if not handled correctly.
+
+
+User Question : tell me one major difference betweon both of them? 
+AI Response : The major difference between a "good call" and a "critical call" lies in their nature and urgency:
+
+1. **Nature and Purpose**:
+
+
+  * **Good Call**: This term is generally used to describe a call that meets high-quality standards in terms of service, communication, or performance. It's often assessed based on criteria like clarity, professionalism, customer satisfaction, and adherence to protocols. A good call reflects positively on the agent's ability to handle communications effectively.
+  * **Critical Call**: This term denotes a call that is of high importance due to the urgency or seriousness of the situation it involves. Critical calls are characterized by their potential impact on safety, health, security, or significant business operations. They require immediate attention and action, often under stressful conditions.
+	
+2. **Urgency and Importance**:
+
+
+  * **Good Call**: While important, good calls are not necessarily urgent or critical. They are assessed based on their quality and adherence to standards, not on the urgency of the situation.
+  * **Critical Call**: These calls are urgent and often involve situations where quick and effective communication can significantly affect the outcome, such as in emergencies, crisis management, or high-level decision-making.
+
+
+In summary, the key difference is that a good call is assessed based on its quality and adherence to standards, while a critical call is defined by its urgency and the potential impact of its outcome.
+
+
+User Question : give me one major difference only. 
+AI Response : The major difference between a "good call" and a "critical call" is their urgency and importance:
+
+* A "good call" is assessed based on its quality and adherence to standards, focusing on effective communication and service.
+* A "critical call" is defined by its urgency and potential impact, often involving situations that require immediate attention and have significant consequences.
+
+
